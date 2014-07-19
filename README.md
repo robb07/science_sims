@@ -8,3 +8,4 @@ Science Sims List
 =================
 
 1. Orrery -- a simulation of the solar system
+2. Traveling Electron -- a simulation of an electron in magnetic and electric fields
