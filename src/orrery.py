@@ -8,10 +8,10 @@ Created on Jun 16, 2014
 
 from visual import *
 
-WIDTH = 500
-HEIGHT = 500
-# WIDTH = 1000
-# HEIGHT = 1000
+# WIDTH = 500
+# HEIGHT = 500
+WIDTH = 1000
+HEIGHT = 1000
 
 # MODE = 'Inner Planets'
 MODE = 'Classical Planets'
